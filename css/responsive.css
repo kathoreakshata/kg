@@ -1349,7 +1349,7 @@ Design and Developed by: PeacefulQode
     }
 
     header#pq-header .pq-bottom-header .navbar .navbar-brand img {
-        height: 50px;
+        height: 80px;
     }
 
     header#pq-header.pq-header-style-2 .pq-top-header {
@@ -2599,7 +2599,7 @@ Design and Developed by: PeacefulQode
 @media(max-width: 397px){
 
     header#pq-header .pq-bottom-header .navbar .navbar-brand img{
-        height: 40px;
+        height: 80px;
     }
     
     .pq-popup-video-block .pq-video-icon a {
