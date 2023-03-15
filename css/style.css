@@ -520,9 +520,6 @@ section {
 .pq-bg-grey {
   background: var(--grey-color) !important;
 }
-.pq-bg-grey img{
-  height: 80vh;
-}
 
 .pq-bg-primary-dark {
   background-color: var(--primary-dark-color) !important;
