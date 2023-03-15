@@ -520,6 +520,9 @@ section {
 .pq-bg-grey {
   background: var(--grey-color) !important;
 }
+.pq-bg-grey img{
+  height: 80vh;
+}
 
 .pq-bg-primary-dark {
   background-color: var(--primary-dark-color) !important;
@@ -6067,7 +6070,7 @@ FAQ
 ====================================================*/
 .pq-accordion-block .pq-accordion-box {
   background: var(--white-color);
-  margin-bottom: 30px;
+  margin-bottom: 15px;
   position: relative;
 }
 
